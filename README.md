@@ -31,6 +31,8 @@ With its compact form factor and 5V DC power requirement, this is an ideal modul
 
 #### Board Overview
 
+![](https://github.com/njustcjj/SENZ017-Bluetooth-Audio-Receiver-Module/blob/master/pic/SENZ017_pin.jpg "Board Overview") 
+
 |No.|Name|Description|
 |-|:-:|-|
 |1|MicroUSB|5V power|
@@ -46,16 +48,13 @@ With its compact form factor and 5V DC power requirement, this is an ideal modul
 |11|Power|+3.7~5V Reserved|
 |12|LED|Blink: Music mode(playing music in U disk or TF card); Normally Light: Bluetooth mode|
 
-![](https://github.com/njustcjj/SENZ017-Bluetooth-Audio-Receiver-Module/blob/master/pic/SENZ017_pin.jpg "Board Overview") 
-
-
 
 #### Tutorial
 
 This units usage is similar to an ordinary bluetooth headset：
 
 Bluetooth Mode：
-> 1. Connect the moudule to the 3.3V~5V power via MicroUSB；
+> 1. Connect the module to the 3.3V~5V power via MicroUSB；
 > 2. Connect your headphone with 3.5mm jack；
 > 3. Short press the MODE key to change to the Bluetooth Mode;
 > 4. Open the bluetooth on phone or PC, search "XT_BT" and connect;

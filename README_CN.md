@@ -30,6 +30,8 @@
 
 #### 模块说明
 
+![](https://github.com/njustcjj/SENZ017-Bluetooth-Audio-Receiver-Module/blob/master/pic/SENZ017_pin.jpg "Board Overview") 
+
 |No.|Name|Description|
 |-|:-:|-|
 |1|MicroUSB|5V power|
@@ -44,10 +46,6 @@
 |10|Bluetooth Antenna||
 |11|Power|+3.7~5V Reserved|
 |12|LED|Blink: Music mode(playing music in U disk or TF card); Normally Light: Bluetooth mode|
-
-
-![](https://github.com/njustcjj/SENZ017-Bluetooth-Audio-Receiver-Module/blob/master/pic/SENZ017_pin.jpg "模块说明") 
-
 
 #### 使用教程
 

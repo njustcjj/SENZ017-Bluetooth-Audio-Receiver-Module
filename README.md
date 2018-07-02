@@ -19,7 +19,7 @@ With its compact form factor and 5V DC power requirement, this is an ideal modul
 
 - Power Supply: 5V DC (Delivered via MicroUSB port)
 - Audio Decoding: MP3, WMA, WAV, FLAC
--- SNR: 90dB
+- SNR: 90dB
 - THD+N: -70dB
 - Crosstalk: -86dB
 - DNR: 91dB
